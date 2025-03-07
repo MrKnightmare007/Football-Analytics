@@ -29,7 +29,7 @@ The project includes a modern, responsive web interface built with:
 - Video playback with tracking overlays
 - Football-themed UI elements and animations
 
-![Screenshot](https://i.ibb.co/d0fK3NP5/Screenshot-2025-03-07-224229.png)
+![Screenshot](https://i.ibb.co/h1HvjtbW/Screenshot-2025-03-07-224229.png)
 ![Screenshot](https://i.ibb.co/99cz39bd/Screenshot-2025-03-07-224239.png)
 ![Screenshot](https://i.ibb.co/20mPw2QY/Screenshot-2025-03-07-224254.png)
 ![Screenshot](https://i.ibb.co/hRWnvRkV/Screenshot-2025-03-07-224035.png)
