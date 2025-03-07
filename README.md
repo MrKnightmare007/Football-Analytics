@@ -11,7 +11,7 @@ The system culminates in a modern, intuitive web interface built with React and 
 
 This project bridges sophisticated computer vision algorithms with practical sports analytics, offering valuable tools for performance analysis while serving as an educational resource for those interested in applied machine learning and computer vision.
 
-![Screenshot](https://i.ibb.co/FJPCNkK/Screenshot-2024-04-05-145032.png)
+![Screenshot](https://i.ibb.co/HTTNzBRH/Screenshot-2025-03-07-220838.png)
 
 ## Modules Used
 The following modules are used in this project:
