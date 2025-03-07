@@ -29,7 +29,7 @@ The project includes a modern, responsive web interface built with:
 - Video playback with tracking overlays
 - Football-themed UI elements and animations
 
-![Screenshot][https://i.ibb.co/d0fK3NP5/Screenshot-2025-03-07-224229.png]
+![Screenshot](https://i.ibb.co/d0fK3NP5/Screenshot-2025-03-07-224229.png)
 
 ## Trained Models
 - [Trained Yolo v5](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
