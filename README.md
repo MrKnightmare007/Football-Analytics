@@ -11,7 +11,7 @@ The system culminates in a modern, intuitive web interface built with React and 
 
 This project bridges sophisticated computer vision algorithms with practical sports analytics, offering valuable tools for performance analysis while serving as an educational resource for those interested in applied machine learning and computer vision.
 
-![Screenshot](output_videos/screenshot.png)
+![Screenshot](https://drive.google.com/file/d/1iuCikKOv4BS2CeLTC6ZY0RyG5mm1rFbP/view?usp=sharing)
 
 ## Modules Used
 The following modules are used in this project:
@@ -30,7 +30,7 @@ The project includes a modern, responsive web interface built with:
 - Football-themed UI elements and animations
 
 ## Trained Models
-- [Trained Yolo v5](https://drive.google.com/file/d/1iuCikKOv4BS2CeLTC6ZY0RyG5mm1rFbP/view?usp=sharing)
+- [Trained Yolo v5](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
 
 ## Sample video
 -  [Sample input video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
