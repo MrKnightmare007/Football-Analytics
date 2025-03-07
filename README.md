@@ -34,6 +34,48 @@ The project includes a modern, responsive web interface built with:
 ![Screenshot](https://i.ibb.co/20mPw2QY/Screenshot-2025-03-07-224254.png)
 ![Screenshot](https://i.ibb.co/hRWnvRkV/Screenshot-2025-03-07-224035.png)
 ![Screenshot](https://i.ibb.co/gLz1HmHd/Screenshot-2025-03-07-224218.png)
+
+## Installation and Setup
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/MrKnightmare007/Football-Analytics.git
+cd Football-Analytics
+```
+### Frontend Setup
+
+1. Navigate to the frontend directory:
+```bash
+cd frontend
+```
+2. Install dependencies:
+```bash
+npm install
+```
+3. Start the development server:
+```bash
+npm start
+```
+### Backend Setup
+
+1. Navigate to the backend directory:
+```bash
+cd backend
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Start the FastAPI server:
+```bash
+uvicorn main:app --reload
+```
+## Usage
+1. Upload a video file to the frontend.
+2. Wait for the video to be processed.
+3. View the analytics and visualizations on the frontend.
+
 ## Trained Models
 - [Trained Yolo v5](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
 
@@ -70,3 +112,4 @@ To run this project, you need:
 - celery>=5.2.0
 - sqlalchemy>=1.4.0
 - psycopg2-binary>=2.9.0
+
