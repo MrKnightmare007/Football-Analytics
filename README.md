@@ -33,6 +33,7 @@ The project includes a modern, responsive web interface built with:
 ![Screenshot](https://i.ibb.co/99cz39bd/Screenshot-2025-03-07-224239.png)
 ![Screenshot](https://i.ibb.co/20mPw2QY/Screenshot-2025-03-07-224254.png)
 ![Screenshot](https://i.ibb.co/hRWnvRkV/Screenshot-2025-03-07-224035.png)
+![Screenshot](https://i.ibb.co/gLz1HmHd/Screenshot-2025-03-07-224218.png)
 ## Trained Models
 - [Trained Yolo v5](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view?usp=sharing)
 
