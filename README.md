@@ -40,12 +40,33 @@ The project includes a modern, responsive web interface built with:
 ## Sample video
 -  [Sample input video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view?usp=sharing)
 
-## Requirements
-To run this project, you need to have the following requirements installed:
-- Python 3.x
-- ultralytics
-- supervision
-- OpenCV
-- NumPy
-- Matplotlib
-- Pandas
+## Backend & Requirements
+
+### Backend Technologies
+The backend is built with:
+- FastAPI for high-performance REST API
+- PostgreSQL for data storage
+- Redis for caching and real-time updates
+- Celery for background task processing
+- Docker for containerization
+
+### System Requirements
+To run this project, you need:
+
+#### Core Dependencies
+- Python 3.8+
+- PostgreSQL 13+
+- Redis 6+
+- Docker & Docker Compose
+
+#### Python Packages
+- ultralytics>=8.0.0
+- supervision>=0.11.0
+- opencv-python>=4.7.0
+- numpy>=1.21.0
+- matplotlib>=3.5.0
+- pandas>=1.4.0
+- fastapi>=0.68.0
+- celery>=5.2.0
+- sqlalchemy>=1.4.0
+- psycopg2-binary>=2.9.0
